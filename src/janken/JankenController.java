@@ -22,7 +22,7 @@ public class JankenController {
      //コンストラクタ
      //引数 3つのラベル
      //a
-
+//a
      public JankenController(Label cpuHandLabel, Label myHandLabel,
               Label resultLabel,Label scoreLabel){
           this.cpuHandLabel = cpuHandLabel;
