@@ -20,7 +20,9 @@ public class JankenController {
      private Label resultLabel;
      private Label scoreLabel;
      //コンストラクタ
-     //引数 3つのラベル
+
+
+
      public JankenController(Label cpuHandLabel, Label myHandLabel,
               Label resultLabel,Label scoreLabel){
           this.cpuHandLabel = cpuHandLabel;
@@ -28,6 +30,7 @@ public class JankenController {
           this.resultLabel = resultLabel;
           this.scoreLabel = scoreLabel;
 
+          //aaaaaaaaaaaaaaaaaaaaa
      }
      // 自分の手をグーとしてじゃんけんをするメソッド
      public void putOutRockHand() {
