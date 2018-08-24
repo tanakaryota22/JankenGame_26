@@ -42,6 +42,8 @@ public class Jankenview extends Application {
         cyokiButton.setOnAction(evet -> jc.putOutScissorsHand());
         paButton.setOnAction(evet -> jc.putOutPaperHand());
     }
+    //aaaaa
+    //sssssssssssssssssssss
 
     //画面に表示するGUI部品の基本的な設定
     public void myLayout(Stage stage) {
