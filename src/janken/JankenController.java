@@ -30,6 +30,7 @@ public class JankenController {
           this.resultLabel = resultLabel;
           this.scoreLabel = scoreLabel;
 
+          //aaaaaaaaaaaaaaaaaaaaa
      }
      // 自分の手をグーとしてじゃんけんをするメソッド
      public void putOutRockHand() {
