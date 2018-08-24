@@ -1,0 +1,11 @@
+[33mcommit f40b8ef40e16a319aedb61017b7ab3b061e78741[m[33m ([m[1;36mHEAD -> [m[1;32madd_janken_display[m[33m)[m
+Author: ryota tanaka <tanakaryota22@gmail.com>
+Date:   Thu Aug 23 15:41:13 2018 +0900
+
+    じゃんけん勝敗判定
+
+[33mcommit 95d2f2c615a908ee640f2688e70674f17b22b073[m[33m ([m[1;32mmaster[m[33m)[m
+Author: ryota tanaka <tanakaryota22@gmail.com>
+Date:   Thu Aug 23 14:08:10 2018 +0900
+
+    first commit
